@@ -1,7 +1,7 @@
 # Curso de CSS da Pluralsight
 
 ## O que é CSS?
-CSS é um mecanismo que possibilita adcionar um estilo ao documento, pode esta dentro de um documento css separado ou dentro deum tag <style> a escolha é definida de acordo com a necessidade  do programador. 
+CSS é um mecanismo que possibilita adcionar um estilo ao documento, pode esta dentro de um documento css separado ou dentro de um tag <style> a escolha é definida de acordo com a necessidade  do programador. 
 
 ## Syles Rules:
 
