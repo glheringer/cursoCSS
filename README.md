@@ -12,7 +12,7 @@ CSS é um mecanismo que possibilita adcionar um estilo ao documento, pode esta d
 |  3 .bookTitle{...}.  |
   
  
-Selector são as formas que se usar para comunicar com o browser oque desejamos estilizar.
+Selector são as formas que se usar para comunicar com o browser o que desejamos estilizar.
   
   1. No local de body pode-se inserir qualquer elemento e o estilo sera aplicado a todos os elementos daquela categoria.
   2. Encontrara um elemento com uma ID fornecida "id" -> #id
@@ -23,7 +23,7 @@ Selector são as formas que se usar para comunicar com o browser oque desejamos 
   - Selector Child: div > p{...} (apenas os elementos dentro porém logo abaixo do primeiro elemento)
   - Selector Attribute: combina elementos baseado no valor de um atributo dado.
   - Selector Child: div > p{...} (apenas os elementos dentro porém logo abaixo do primeiro elemento)
-  - Psuedo Class: a : visited {...}, sempre que o link é visitado algo é editado.
+  - Pseudo Class: a : visited {...}, sempre que o link é visitado algo é editado.
   
 ------------------------------------------  
 ```CSS   
