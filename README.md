@@ -177,7 +177,4 @@ Muito parecido com o Absoluto, exceto que o posicionamento é relativo à própr
 ### Float elements
 Permite que o elemento se mova para esquerda ou para a direita e que outro conteúdo flutue ao lado dele em um fluxo normal. (estático).  O clear remove essa flutuação e impede que um elemento seja flutuante.
   
-  ------------------------------------------------
-  
-  ## Css Display Properties
  
